@@ -1,31 +1,12 @@
 {
-  "name": "MoneyTracker",
-  "short_name": "MoneyTracker",
-  "description": "Gestisci spese, entrate e budget personali con account multipli",
-  "start_url": "/MoneyTracker-2.0/",
-  "scope": "/MoneyTracker-2.0/",
+  "background_color": "#5a9a9b",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#667eea",
-  "theme_color": "#667eea",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "/MoneyTracker-2.0/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "/MoneyTracker-2.0/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "/MoneyTracker-2.0/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ]
+  "name": "MoneyTracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "MoneyTracker",
+  "start_url": "/",
+  "theme_color": "#2e516d",
+  "description": "Gestisci spese e budget"
 }
